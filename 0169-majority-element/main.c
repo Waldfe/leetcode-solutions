@@ -1,5 +1,6 @@
 // Leetcode Problem #169 - Majority Element
 // https://leetcode.com/problems/majority-element/
+// algoritmo de Boyer-Moore
 
 #include<stdio.h>
 
