@@ -5,7 +5,7 @@ As soluções estão organizadas por número do problema e nome da questão.
 
 ## 📁 Estrutura
 
-- `0001-two-sum/solution.c`: Solução para o problema "Two Sum"
+- `0001-two-sum/main.c`: Solução para o problema "Two Sum"
 
 ## 🚀 Objetivo
 
